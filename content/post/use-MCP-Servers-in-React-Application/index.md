@@ -1,6 +1,6 @@
 ---
 title: "Using MCP Servers in a React Application — A Real-World Example with Microsoft Graph"
-date: 2026-02-22T14:40:00-04:00
+date: 2026-02-26T14:40:00-04:00
 author: "João Mendes"
 githubname: joaojmendes
 categories: ["Community post"]
